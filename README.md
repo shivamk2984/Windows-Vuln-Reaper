@@ -1,5 +1,4 @@
 # Windows-Vuln-Reaper
-![Windows-Vuln-Reaper Logo]([https://github.com/shivamk2984/Windows-Vuln-Reaper/blob/main/assets/final_logo.png](https://github.com/shivamk2984/Windows-Vuln-Reaper/blob/main/final_logo.png))
 
 **by codeinecasket**
 
