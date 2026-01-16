@@ -65,6 +65,13 @@ REM Scan local machine silently (console output)
 Windows-Vuln-Reaper.exe --local
 ```
 
+## Offline Edition (Air-Gapped)
+### Download Definitions.zip and place it in the same folder as the .exe file.
+For highly secure, air-gapped environments, use `Offline-Vuln-Reaper.exe`.
+*   **Zero Network Traffic**: Does not attempt to download definitions.
+*   **Bundled Database**: Contains the vulnerability definitions inside the executable.
+*   **Usage**: Same as the standard edition, but never connects to the internet.
+
 ##  Credits
 **Developed by codeinecasket**  
 Based on research from the WES-NG project.
