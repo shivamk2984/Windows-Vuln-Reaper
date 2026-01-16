@@ -1,5 +1,7 @@
 # Windows-Vuln-Reaper
 
+![logo](https://github.com/shivamk2984/Windows-Vuln-Reaper/blob/2fd666325a84a715d950cf4ac4c7367a21ba7166/final_logo.png)
+
 **by codeinecasket**
 
 <h3 align="left">Languages and Tools:</h3>
